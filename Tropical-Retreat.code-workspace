@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Tropical-Retreat",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tropical-Retreat"
+	}
+}
