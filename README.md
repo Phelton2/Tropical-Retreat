@@ -1,2 +1,2 @@
 # Tropical-Retreat
-Website source code for Ms. Alezie
+Source code for the "Tropical Retreat Spa" website.
